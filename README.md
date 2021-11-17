@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo da Cobra com JAVA: </h1>
 
-  <h2 align="center"> Inicio </h2>
+  <h2 align="center"> Início </h2>
    <a href="#">
     <img align="center" width="700" src="Com.PNG" />
   </a>
